@@ -5,7 +5,7 @@ $phone_number = $_POST["rhPhoneNum"];
 $company_name = $_POST["rhCompName"];
  
 $EmailTo = "dm.ravgroup@gmail.com";
-$Subject = "Message from " . "RAV";
+$Subject = "Message From Website";
  
 // prepare email body text
 $Body = "Name: ";
