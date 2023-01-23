@@ -1,0 +1,58 @@
+// -----------------------------------------------------------------------------------
+
+// 	variables.less
+
+// -----------------------------------------------------------------------------------
+
+
+//  ----------------------------------------------------------------
+// 	Base Colors
+// -----------------------------------------------------------------
+
+$theme-color:                   #24c162;
+$theme-color-2:                 #f7941d;
+
+$body-color:                    #999;
+
+$dark-color:					#000;
+
+$link-color: 					#24c162;
+$link-hover-color: 				#222;
+$link-focus-color: 				#24c162;
+
+$heading-color:                 #000;
+
+$highlight-color:		 		#000;
+$highlight-bg-color: 			#c0eaf5;
+
+
+
+//  ----------------------------------------------------------------
+// 	Line Height Variables
+// -----------------------------------------------------------------
+
+$line-height-base:              1.7;
+$line-height-content:           1.8;
+$line-height-heading:           1.55;
+
+
+//  ----------------------------------------------------------------
+// 	Font Families
+// -----------------------------------------------------------------
+
+$body-font:                     "Lato", "Cairo", sans-serif;
+$heading-font:                  "Montserrat", "Droid Arabic Kufi", sans-serif;
+$secondary-font:                "Montserrat", "Droid Arabic Kufi", sans-serif;
+
+
+//  ----------------------------------------------------------------
+// 	Font Sizes
+// -----------------------------------------------------------------
+
+$font-size-base:                16px;
+$font-size-h1:                  33px;
+$font-size-h2:                  28px;
+$font-size-h3:                  23px;
+$font-size-h4:                  18px;
+$font-size-h5:                  15px;
+$font-size-h6:                  12px;
